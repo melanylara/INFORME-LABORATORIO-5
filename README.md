@@ -109,7 +109,10 @@ Calculamos la Corriente y el Voltaje en R5 con la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/105020538/210939458-4efcf931-8d22-4c07-ae38-539d84c1967c.png)
 
-**5. CONCLUSIONES** 
+**5. VIDEO**
+
+
+**6. CONCLUSIONES** 
 
 - Esta práctica nos permitió visualizar tanto física como experimental y matemáticamente como se emplea este Teorema, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión, además de que durante esta práctica trabajamos por primera vez con un componente nuevo, el potenciómetro de precisión. 
 
@@ -117,7 +120,7 @@ Calculamos la Corriente y el Voltaje en R5 con la ley de Ohm
 
 - El teorema de Thévenin se concluye con la ley de ohm para calcular la corriente que circula por una rama. 
 
-**6. BIBLIOGRAFÍA**
+**7. BIBLIOGRAFÍA**
 
 - FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN. 
 
