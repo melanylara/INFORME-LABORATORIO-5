@@ -68,6 +68,35 @@ v) Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mid
 
 ![image](https://user-images.githubusercontent.com/105020538/210939292-2c6c25fe-460d-43de-b24a-af2c9a97f7b5.png)
 
+**Circuito para comprobar el Teorema de Thévenin**
+
+![image](https://user-images.githubusercontent.com/105020538/210940378-5a19cbf3-3e11-4ebe-9ec7-e95348b2a57f.png)
+
+Calculamos la Resistenca Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/105020538/210940441-61298281-1fe2-4b18-9198-09810eadccf8.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940468-20d06c89-721b-46ab-b8ed-45a934283a60.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940507-838a5bb3-d086-4531-9591-813785232b08.png)
+
+Calculamos el Voltaje Equivalente de Thévenin por el método de mallas 
+
+![image](https://user-images.githubusercontent.com/105020538/210940553-c496b031-d445-4328-82ea-4862661e842a.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940606-1ef0b1ae-195a-4126-a55a-0d62b26cb0ba.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940635-61a677b8-16b2-4830-b21b-3578b8f1d9fe.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940656-c36d4c3c-0a3e-4d38-be6b-0baf83ba2ad0.png)
+
+![image](https://user-images.githubusercontent.com/105020538/210940676-9936aa39-6cd5-49aa-b45f-726331104575.png)
+
+Calculamos la Corriente y el Voltaje en R5 con la ley de Ohm
+
+![image](https://user-images.githubusercontent.com/105020538/210940786-b06ea8cd-6214-4090-b379-10890c868c3a.png)
+
+
 **Tabla 5.1. Valores del Circuito Equivalente de Thévenin**
 
 ![image](https://user-images.githubusercontent.com/105020538/210939333-4e5f51ac-ddf5-4304-b408-42e9d3f550b0.png)
