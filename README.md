@@ -128,21 +128,3 @@ Calculamos la Corriente y el Voltaje en R5 con la ley de Ohm
 
 - Mecatrónica Latam. (2021). Teorema de Thévenin. Recuperado de: https://www.mecatronicalatam.com/es/tutoriales/teoria/teorema-de-thevenin-y-norton/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
